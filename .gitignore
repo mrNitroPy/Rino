@@ -1,2 +1,4 @@
 config.php
 bot.php
+table.php
+app/ApiPanel.php
